@@ -23,7 +23,7 @@ void setup()
 
 void loop()
 {
-	//wait 2 sec
+    //wait 2 sec
     delay(2000);
 	
     //read data and store it to variables hum and temp
